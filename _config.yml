@@ -1,0 +1,68 @@
+# Site settings
+title: Gabriel Topala
+twitter_username: gtopala
+name: Gabriel Topala
+
+# Build settings
+markdown: kramdown
+
+#User specific content
+#Links that will appear in the navbar
+primarylinks:
+ - title: SIW
+   url: https://www.gtopala.com/
+ - title: Blog
+   url: http://blog.gtopala.com/
+ - title: GitHub
+   url: https://github.com/gtopala
+ - title: StackOverflow
+   url: http://stackoverflow.com/users/7340019/gabriel-topala
+# - title: DZone
+#   url: https://dzone.com/users/899489/rhinds.html
+ - title: LinkedIn
+   url: http://www.linkedin.com/in/gtopala
+
+#Any buzzword skills you want to include
+skills:
+ - C++
+# - Spring MVC
+# - Spring Boot
+# - Gradle
+# - Java
+# - JPA
+# - SQL
+# - REST
+ - Tech Architecture
+
+#Blogfeed is optional - including this will add JS to call the feed and populate blog list
+blogfeed: https://www.gtopala.com/rss.xml
+
+#Work experience is required
+roles:
+ - title: Owner
+   start: 2005
+   end: Ongoing
+   employer: Topala Software Solutions
+   description: Topala Software Solutions is a software publisher company of advanced administration solutions that are effective for small, medium and large-scale enterprises worldwide.
+
+#Education is required
+education:
+ - level: Bachelor of Science (B.Sc.)
+   date: 1998
+   subject: Faculty of Automation and Computers
+   school: University of Craiova
+
+#This section is optional (as is the image link below)
+
+#List of interesting Github repo/projects to include - optional
+github:
+ - gtopala/SIWViewer
+
+#Stackoverflow flair is optional
+#stackoverflow:
+#   profileurl: http://stackoverflow.com/users/258813/rhinds
+#   flairimageurl: http://stackoverflow.com/users/flair/258813.png
+
+#Mobile apps section is optional
+
+#An additional info freetext section is optional at the bottom of the page - can be text or HTML
